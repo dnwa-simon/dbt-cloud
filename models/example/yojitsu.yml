@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: table
+    schema: '"yojitsu"'
+    tables:
+      - name: YOSAN_UPD
+      - name: MIKOMI_UPD
+      - name: ZISSEKI_UPD
